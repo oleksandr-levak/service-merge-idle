@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b3ff81f8e0d74c67aa1be03190f43d84, type: 3}
+  m_Name: OrderClientsDatabase
+  m_EditorClassIdentifier: 
+  _items:
+  - salonId: 1
+    orderId: 1
+    orderItems:
+    - level: 1
+      amount: 2
+      mergeType: 6
+  - salonId: 1
+    orderId: 2
+    orderItems:
+    - level: 1
+      amount: 1
+      mergeType: 7
+    - level: 1
+      amount: 1
+      mergeType: 6
+  - salonId: 1
+    orderId: 3
+    orderItems:
+    - level: 1
+      amount: 1
+      mergeType: 7
+    - level: 1
+      amount: 1
+      mergeType: 3
+  - salonId: 1
+    orderId: 4
+    orderItems:
+    - level: 1
+      amount: 2
+      mergeType: 6
+    - level: 1
+      amount: 1
+      mergeType: 7

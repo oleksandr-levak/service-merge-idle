@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "715986999480",
+    "project_id": "merge-idle-tech-service",
+    "storage_bucket": "merge-idle-tech-service.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:715986999480:android:10340f4c538ef2f1757c4d",
+        "android_client_info": {
+          "package_name": "com.tech.service.mergix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "715986999480-54d5lb6tegh7eobjj7gomev5p61c0o6d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtYp6RziJ7kAO-e_xlar8AhcfhpRYyHUU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "715986999480-54d5lb6tegh7eobjj7gomev5p61c0o6d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ed713bb580a4e2e971e3eb44389be18, type: 3}
+  m_Name: StoreItemsDatabase
+  m_EditorClassIdentifier: 
+  _items:
+  - id: 1
+    currency: 0
+    amount: 100
+    price: 2.99
+    image: {fileID: 21300000, guid: 088007214012de94b82e581655f2a974, type: 3}
+    productId: com.company.mergix.dollar100
+  - id: 2
+    currency: 0
+    amount: 1000
+    price: 5.99
+    image: {fileID: 21300000, guid: 9b188fdfbbaf44f448ed781d72456698, type: 3}
+    productId: com.company.mergix.dollar1000
+  - id: 3
+    currency: 0
+    amount: 1500
+    price: 9.99
+    image: {fileID: 21300000, guid: a919e1f4fb9aa1240b547080e687e3e6, type: 3}
+    productId: com.company.mergix.dollar1500
+  - id: 4
+    currency: 1
+    amount: 5600
+    price: 14.99
+    image: {fileID: 21300000, guid: f6b2b468cbe60af4891f1095ceb5a788, type: 3}
+    productId: com.company.mergix.ruby5600
+  - id: 5
+    currency: 1
+    amount: 8200
+    price: 19.99
+    image: {fileID: 21300000, guid: 38cdff92e26e2964e812d7b0f56f52a5, type: 3}
+    productId: com.company.mergix.ruby8200
+  - id: 6
+    currency: 1
+    amount: 10000
+    price: 24.99
+    image: {fileID: 21300000, guid: 44026b6bff08e6148b7e06a07d14742e, type: 3}
+    productId: com.company.mergix.ruby10000

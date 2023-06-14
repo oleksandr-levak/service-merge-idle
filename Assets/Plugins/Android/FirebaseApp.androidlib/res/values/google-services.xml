@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id">
+  <string name="gcm_defaultSenderId" translatable="false">715986999480</string>
+  <string name="google_storage_bucket" translatable="false">merge-idle-tech-service.appspot.com</string>
+  <string name="project_id" translatable="false">merge-idle-tech-service</string>
+  <string name="google_api_key" translatable="false">AIzaSyDtYp6RziJ7kAO-e_xlar8AhcfhpRYyHUU</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDtYp6RziJ7kAO-e_xlar8AhcfhpRYyHUU</string>
+  <string name="google_app_id" translatable="false">1:715986999480:android:10340f4c538ef2f1757c4d</string>
+  <string name="default_web_client_id" translatable="false">715986999480-54d5lb6tegh7eobjj7gomev5p61c0o6d.apps.googleusercontent.com</string>
+</resources>

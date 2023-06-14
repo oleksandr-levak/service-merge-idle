@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3a53300234da43f69ee6e544a2cc9723, type: 3}
+  m_Name: PurchaseItemsDatabase
+  m_EditorClassIdentifier: 
+  _items:
+  - type: 0
+    id: 0
+    price: 4.99
+    currency: 0
+    category: 0
+    level: 1
+    mergeType: 201
+  - type: 0
+    id: 1
+    price: 0
+    currency: 0
+    category: 1
+    level: 1
+    mergeType: 202
+  - type: 0
+    id: 2
+    price: 30
+    currency: 1
+    category: 3
+    level: 1
+    mergeType: 203
+  - type: 1
+    id: 0
+    price: 4.99
+    currency: 0
+    category: 0
+    level: 1
+    mergeType: 204
+  - type: 1
+    id: 1
+    price: 0
+    currency: 0
+    category: 1
+    level: 1
+    mergeType: 205
+  - type: 1
+    id: 2
+    price: 30
+    currency: 1
+    category: 3
+    level: 1
+    mergeType: 206
+  - type: 2
+    id: 0
+    price: 30
+    currency: 0
+    category: 0
+    level: 1
+    mergeType: 207
+  - type: 2
+    id: 1
+    price: 0
+    currency: 0
+    category: 1
+    level: 1
+    mergeType: 208
+  - type: 2
+    id: 2
+    price: 30
+    currency: 1
+    category: 3
+    level: 1
+    mergeType: 209

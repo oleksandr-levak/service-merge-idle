@@ -1,0 +1,249 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: af769aaea1644f5c86095f72e7b08db9, type: 3}
+  m_Name: SalonItemsDatabase
+  m_EditorClassIdentifier: 
+  _items:
+  - id: 1
+    level: 1
+    currentLevel: 1
+    exp: 0
+    salonLevels:
+    - level: 0
+      exp: 0
+      amountPerSecond: 0
+      currency: 0
+      levelSprite: {fileID: 21300000, guid: 82abaafc578c5d7439f24fe7dc1725d0, type: 3}
+      salonSprite: {fileID: 0}
+    - level: 1
+      exp: 100
+      amountPerSecond: 1
+      currency: 0
+      levelSprite: {fileID: 21300000, guid: bb0c385bf46a3614db5b615c5fafb9e3, type: 3}
+      salonSprite: {fileID: 21300000, guid: 1ddfe5673ee5d4fcd90a7f06e4a81569, type: 3}
+    - level: 2
+      exp: 110
+      amountPerSecond: 4.4
+      currency: 0
+      levelSprite: {fileID: 21300000, guid: 9df28166124445c48a85d03b8028ec5f, type: 3}
+      salonSprite: {fileID: 21300000, guid: c64b98248e0df4b32bb6e4e1f7277758, type: 3}
+    - level: 3
+      exp: 120
+      amountPerSecond: 4.5
+      currency: 0
+      levelSprite: {fileID: 21300000, guid: 4e2867a2fed06864d87983eda9ce1f6d, type: 3}
+      salonSprite: {fileID: 21300000, guid: 8bc8c544fb44e46ad868874e0bf9a20c, type: 3}
+    - level: 4
+      exp: 130
+      amountPerSecond: 4.6
+      currency: 0
+      levelSprite: {fileID: 21300000, guid: 4e2867a2fed06864d87983eda9ce1f6d, type: 3}
+      salonSprite: {fileID: 21300000, guid: 71ef81b8e9fba40c49b40e1b9c502e43, type: 3}
+    - level: 5
+      exp: 140
+      amountPerSecond: 4.7
+      currency: 0
+      levelSprite: {fileID: 21300000, guid: 4e2867a2fed06864d87983eda9ce1f6d, type: 3}
+      salonSprite: {fileID: 21300000, guid: 17a72937f222240b2941e5f15bea7581, type: 3}
+    - level: 6
+      exp: 150
+      amountPerSecond: 4.8
+      currency: 0
+      levelSprite: {fileID: 21300000, guid: 4e2867a2fed06864d87983eda9ce1f6d, type: 3}
+      salonSprite: {fileID: 21300000, guid: 3e813a9020fa34fd7ad547d2c1278ec8, type: 3}
+    - level: 7
+      exp: 160
+      amountPerSecond: 4.9
+      currency: 0
+      levelSprite: {fileID: 21300000, guid: 4e2867a2fed06864d87983eda9ce1f6d, type: 3}
+      salonSprite: {fileID: 21300000, guid: c6eb867796904443a88090cac83cbcf7, type: 3}
+    - level: 8
+      exp: 170
+      amountPerSecond: 5
+      currency: 0
+      levelSprite: {fileID: 21300000, guid: 4e2867a2fed06864d87983eda9ce1f6d, type: 3}
+      salonSprite: {fileID: 21300000, guid: 493420c46b6c949ee8fd5d20b8f3ec67, type: 3}
+    - level: 9
+      exp: 180
+      amountPerSecond: 5.1
+      currency: 0
+      levelSprite: {fileID: 21300000, guid: 4e2867a2fed06864d87983eda9ce1f6d, type: 3}
+      salonSprite: {fileID: 21300000, guid: 015b41fcac1190548812fe722bbc1d70, type: 3}
+    - level: 10
+      exp: 190
+      amountPerSecond: 7.7
+      currency: 0
+      levelSprite: {fileID: 21300000, guid: 4e2867a2fed06864d87983eda9ce1f6d, type: 3}
+      salonSprite: {fileID: 21300000, guid: 4a0b473570d1e49fabd302a94bc39771, type: 3}
+    - level: 11
+      exp: 200
+      amountPerSecond: 7.9
+      currency: 0
+      levelSprite: {fileID: 21300000, guid: 4e2867a2fed06864d87983eda9ce1f6d, type: 3}
+      salonSprite: {fileID: 21300000, guid: 5d4b91350ec7542589e57fbc50c3ff89, type: 3}
+    isOpen: 1
+  - id: 2
+    level: 0
+    currentLevel: 0
+    exp: 0
+    salonLevels:
+    - level: 0
+      exp: 0
+      amountPerSecond: 0
+      currency: 0
+      levelSprite: {fileID: 21300000, guid: 82abaafc578c5d7439f24fe7dc1725d0, type: 3}
+      salonSprite: {fileID: 0}
+    - level: 1
+      exp: 150
+      amountPerSecond: 4
+      currency: 0
+      levelSprite: {fileID: 21300000, guid: 4a01aa77ee7b69544b0e1daf692b9d4f, type: 3}
+      salonSprite: {fileID: 21300000, guid: a9f63645590f94b9ba636f232a8f858f, type: 3}
+    - level: 2
+      exp: 160
+      amountPerSecond: 17.6
+      currency: 0
+      levelSprite: {fileID: 21300000, guid: 3a4013a375d73bb47a99e1586275d533, type: 3}
+      salonSprite: {fileID: 21300000, guid: b95f64bf3de0843d896b24ba7704f0ee, type: 3}
+    - level: 3
+      exp: 170
+      amountPerSecond: 18
+      currency: 0
+      levelSprite: {fileID: 21300000, guid: d94ff7cf3325dfe49966748b148c231b, type: 3}
+      salonSprite: {fileID: 21300000, guid: 8c4db13cf4a394640af5e3524bb96509, type: 3}
+    - level: 4
+      exp: 180
+      amountPerSecond: 18.4
+      currency: 0
+      levelSprite: {fileID: 21300000, guid: d94ff7cf3325dfe49966748b148c231b, type: 3}
+      salonSprite: {fileID: 21300000, guid: 7dcfa62f202c54044bb935321e9ff295, type: 3}
+    - level: 5
+      exp: 190
+      amountPerSecond: 18.8
+      currency: 0
+      levelSprite: {fileID: 21300000, guid: d94ff7cf3325dfe49966748b148c231b, type: 3}
+      salonSprite: {fileID: 21300000, guid: 7d276563f4bde41c49f672085722eb76, type: 3}
+    - level: 6
+      exp: 200
+      amountPerSecond: 19.2
+      currency: 0
+      levelSprite: {fileID: 21300000, guid: d94ff7cf3325dfe49966748b148c231b, type: 3}
+      salonSprite: {fileID: 21300000, guid: 8dd23d8b95b9e40b9803bcbc7546b4fd, type: 3}
+    - level: 7
+      exp: 210
+      amountPerSecond: 19.6
+      currency: 0
+      levelSprite: {fileID: 21300000, guid: d94ff7cf3325dfe49966748b148c231b, type: 3}
+      salonSprite: {fileID: 21300000, guid: 8269123ae255a446089ea5dc197d4f0c, type: 3}
+    - level: 8
+      exp: 220
+      amountPerSecond: 20
+      currency: 0
+      levelSprite: {fileID: 21300000, guid: d94ff7cf3325dfe49966748b148c231b, type: 3}
+      salonSprite: {fileID: 21300000, guid: 04a0e047ea24c4acab83e1b386861423, type: 3}
+    - level: 9
+      exp: 230
+      amountPerSecond: 20.4
+      currency: 0
+      levelSprite: {fileID: 21300000, guid: d94ff7cf3325dfe49966748b148c231b, type: 3}
+      salonSprite: {fileID: 21300000, guid: 7c62962134aed4e4b85c8fd54b81f3a1, type: 3}
+    - level: 10
+      exp: 240
+      amountPerSecond: 30.8
+      currency: 0
+      levelSprite: {fileID: 21300000, guid: d94ff7cf3325dfe49966748b148c231b, type: 3}
+      salonSprite: {fileID: 21300000, guid: 9bd434a70a74e41fbaed9a5e9ff6d25b, type: 3}
+    - level: 11
+      exp: 250
+      amountPerSecond: 31.6
+      currency: 0
+      levelSprite: {fileID: 21300000, guid: d94ff7cf3325dfe49966748b148c231b, type: 3}
+      salonSprite: {fileID: 21300000, guid: 188ddb7e2385f4a7990bf8cc7d5676da, type: 3}
+    isOpen: 0
+  - id: 3
+    level: 0
+    currentLevel: 0
+    exp: 0
+    salonLevels:
+    - level: 0
+      exp: 0
+      amountPerSecond: 0
+      currency: 0
+      levelSprite: {fileID: 21300000, guid: 82abaafc578c5d7439f24fe7dc1725d0, type: 3}
+      salonSprite: {fileID: 0}
+    - level: 1
+      exp: 250
+      amountPerSecond: 16
+      currency: 0
+      levelSprite: {fileID: 21300000, guid: 9e8bb5066ca301240a3854dd2bd0ed63, type: 3}
+      salonSprite: {fileID: 21300000, guid: 22396fe15688941c4a5a38b45aaab5d9, type: 3}
+    - level: 2
+      exp: 260
+      amountPerSecond: 70.4
+      currency: 0
+      levelSprite: {fileID: 21300000, guid: e9e46fcb06fb05242aeeabedac88acd9, type: 3}
+      salonSprite: {fileID: 21300000, guid: 1f8a482252fff47bf9554f37716ed0ae, type: 3}
+    - level: 3
+      exp: 270
+      amountPerSecond: 72
+      currency: 0
+      levelSprite: {fileID: 21300000, guid: d14f974ba8222744da457bab91554d00, type: 3}
+      salonSprite: {fileID: 21300000, guid: 744edd5bbb005469e845586be88bb4fa, type: 3}
+    - level: 4
+      exp: 280
+      amountPerSecond: 73.6
+      currency: 0
+      levelSprite: {fileID: 21300000, guid: d14f974ba8222744da457bab91554d00, type: 3}
+      salonSprite: {fileID: 21300000, guid: d10ff1aa7c6e14fccb547bab35231c31, type: 3}
+    - level: 5
+      exp: 290
+      amountPerSecond: 75.2
+      currency: 0
+      levelSprite: {fileID: 21300000, guid: d14f974ba8222744da457bab91554d00, type: 3}
+      salonSprite: {fileID: 21300000, guid: 72fa3be150b314b7996f52b676fdbc2a, type: 3}
+    - level: 6
+      exp: 300
+      amountPerSecond: 76.8
+      currency: 0
+      levelSprite: {fileID: 21300000, guid: d14f974ba8222744da457bab91554d00, type: 3}
+      salonSprite: {fileID: 21300000, guid: 5fd7610e83d924c7b9999b70c489b79b, type: 3}
+    - level: 7
+      exp: 310
+      amountPerSecond: 78.4
+      currency: 0
+      levelSprite: {fileID: 21300000, guid: d14f974ba8222744da457bab91554d00, type: 3}
+      salonSprite: {fileID: 21300000, guid: f50c7bcf5e83948f6998522104aaff47, type: 3}
+    - level: 8
+      exp: 320
+      amountPerSecond: 80
+      currency: 0
+      levelSprite: {fileID: 21300000, guid: d14f974ba8222744da457bab91554d00, type: 3}
+      salonSprite: {fileID: 21300000, guid: 16999640cc74b4b899744f3ba70770c2, type: 3}
+    - level: 9
+      exp: 330
+      amountPerSecond: 81.6
+      currency: 0
+      levelSprite: {fileID: 21300000, guid: d14f974ba8222744da457bab91554d00, type: 3}
+      salonSprite: {fileID: 21300000, guid: 1ddfe5673ee5d4fcd90a7f06e4a81569, type: 3}
+    - level: 10
+      exp: 340
+      amountPerSecond: 123.2
+      currency: 0
+      levelSprite: {fileID: 21300000, guid: d14f974ba8222744da457bab91554d00, type: 3}
+      salonSprite: {fileID: 21300000, guid: ec1926eda34c34332b9042c0631c0143, type: 3}
+    - level: 11
+      exp: 350
+      amountPerSecond: 126.4
+      currency: 0
+      levelSprite: {fileID: 21300000, guid: d14f974ba8222744da457bab91554d00, type: 3}
+      salonSprite: {fileID: 21300000, guid: c64b98248e0df4b32bb6e4e1f7277758, type: 3}
+    isOpen: 0
